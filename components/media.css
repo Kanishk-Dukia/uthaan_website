@@ -1,0 +1,298 @@
+@media (max-width:1200px){
+    .image{
+        display: none;
+    }
+    .let1{
+        background-image: url(../Assets/what/unsplash_AEaTUnvneik.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        color: white;
+        opacity: 1;
+    }
+    .let11{
+        color: white;
+    }
+    #hey{
+        color: white;
+    }
+    #remove{
+        display: none;
+    }
+    .p11{
+        color: white;
+        font-weight: bold;
+    }
+    .flex1{
+        width: 80%;
+    }
+    .let1{
+        padding: 20px;
+    }
+
+    
+}
+
+.caro{
+    display: flex;
+    flex-direction: column;
+}
+@media (max-width:1100px) {
+    
+    .flex5{
+        flex-direction: column-reverse;
+    }
+    .greet{
+        padding: 60px 20px;
+        height: fit-content;
+    }
+    .flex51{
+        margin-left: 75px;
+    }
+    .lets{
+        margin-top: 10px;
+    }
+    .info2{
+        flex-direction: column;
+        gap: 5px;
+    }
+    footer{
+        flex-direction: column-reverse;
+        gap: 50px;
+        align-items: center;
+    }
+    .formrow{
+        flex-direction: column;
+        gap: 30px;
+    }
+    .formfor>form>.formrow>div{
+        width: 100%;
+    }
+    .info{
+        width: 100%;
+    }
+    .form2{
+        width: 100%;
+    }
+    .paper1{
+        flex-direction: column;
+        gap: 60px;
+    }
+    .paper11{
+        flex-direction: column-reverse;
+        gap: 50px;
+    }
+    .paper22,.paper11{
+        gap: 50px;
+        width: 100%;
+    }
+    .chal,.chal2,.chal3{
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+    }
+    .chal4{
+        flex-direction: column;
+        padding: 20px;
+    }
+    #chal42,#chal41{
+        width: 100%;
+    }
+    #revert{
+        flex-direction: column-reverse;
+    }
+    .chal6{
+        padding: 20px;
+    }
+    .chal6>div{
+        width: 100%;
+    }
+    #lastchal{
+        width: 100%;
+    }
+    .flex2,.caro{
+        width: 100%;
+    }
+    .image2{
+        width: 100%;
+    }
+    .main{
+        margin-top: 20px;
+    }
+    .flex2{
+        width: 100%;
+    }
+    .chale6>div{
+        width: 90%;
+    }
+    .chal2{
+        flex-direction: column-reverse;
+    }
+    #done{
+        flex-direction: column;
+    }
+    /* #chal42,#chal41{
+        width: 90%;
+    } */
+    .founder{
+        flex-direction: column-reverse;
+    }
+    .foundimg{
+        width: 70%;
+    }
+    .foundercontent>p{
+        width: 100%;
+        margin-left: 0;
+    }
+    #namehide{
+        display: flex;
+        margin-left: 0;
+        flex-direction: column;
+        margin-bottom: 10px;
+    }
+
+    .heading9{
+        display: none;
+    }
+    
+}
+
+@media (max-width:800px) {
+    .whatdo{
+        padding: 30px;
+    }
+    .aim{
+        padding: 30px;
+    }
+    .foundimg{
+        width: 80%;
+    }
+    .foundercontent{
+        width: 80%;
+    }
+
+    
+}
+
+
+@media (max-width:610px){
+    .greet{
+        padding: 30px 10px;
+    }
+    #con{
+        font-size: 2rem;
+    }
+    .p51{
+        font-size: 0.8rem;
+    }
+    .formfor>form{
+        width: 80%
+    }
+    footer{
+        padding: 40px 
+    }
+    .one{
+        padding: 50px
+    }
+    .flex1{
+        width: 100%
+    }
+    .items{
+        gap: 20px;
+    }
+    .items-sub1{
+        flex-direction: column;
+        gap: 20px
+    }
+    .foundimg{
+        width: 90%
+    }
+    .foundercontent{
+        width: 90%;
+    }
+    #bt{
+        display: none;
+    }
+    .let11,.p11,#hey{
+        padding-left: 10px;
+    }
+    
+    .chal{
+        padding: 20px;
+    }
+    .caro{
+        width: 100%
+    }
+    .caro>.arrows>svg{
+        height: 45px;
+        width: 45px;
+    }
+    .caro>.arrows2>svg{
+        height: 45px;
+        width: 45px;
+    }
+    .dot>.dots{
+        width: 10px;
+        height: 10px;
+    }
+
+    .cr_image img{
+        height: 20em;
+     }
+ 
+     .carousel-control-next {
+        bottom: -15em;
+    }
+    
+    .carousel-control-prev {
+        bottom: -15em;
+    }
+
+    .men_he img {
+        height: 17em;
+        width: 21em;
+    }
+};
+
+
+
+@media (max-width:500px){
+    .heading10{
+        font-size: 1rem;
+    }
+}
+
+@media (max-width:400px){
+    #con{
+        font-size: 1.6rem;
+    }
+    .p51{
+        font-size: 0.8rem;
+    }
+    .formfor>form{
+        width: 90%
+    }
+    .info{
+        display: flex;
+        }
+        .content{
+            width: 100%
+        }
+         #xx{
+      margin-left: 5px;
+         }
+     #aimremove{
+        display: none;
+     }
+     .foundimg{
+        width: 100%;
+     }
+     .foundercontent{
+        width: 100%;
+    }
+    #namehide{
+        font-size: 2rem;
+    }
+}
+
+
