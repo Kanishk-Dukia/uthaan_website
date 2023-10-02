@@ -954,6 +954,14 @@ background: #64431C;
     .navi img {
         height: 4.8em;
     }
+
+    .dialogstuff {
+       
+        padding: 0 100px 0 29px;
+        border-radius: 1em;
+     
+    }
+    
 }
 
 @media (max-width:700px) {
@@ -1033,6 +1041,8 @@ background: #64431C;
     display: none;
     position: fixed;
     padding: 0 100px;
+    /* padding: 0 100px 0 29px;
+    border-radius: 1em; */
     z-index: 100;
     position: absolute;
     background-color: rgba(255, 255, 255, 1);
@@ -1112,6 +1122,13 @@ background: #64431C;
 
     .but3 {
         margin-left: 0;
+    }
+
+    .dialogstuff {
+       
+        padding: 0 100px 0 29px;
+        border-radius: 0.2em;
+     
     }
 
 }
