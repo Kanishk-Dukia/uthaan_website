@@ -35,6 +35,10 @@ nav {
     width: 0.1px;
 }
 
+.navi img {
+    height: 5.8em;
+}
+
 .donatebut {
     background-color: black;
     color: white;
@@ -931,7 +935,7 @@ background: #64431C;
         width: 70%;
     }
 
-    
+
 }
 
 @media (max-width:600px) {
@@ -945,6 +949,10 @@ background: #64431C;
 
     .subsbu {
         width: 54%;
+    }
+
+    .navi img {
+        height: 4.8em;
     }
 }
 
