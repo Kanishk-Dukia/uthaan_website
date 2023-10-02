@@ -260,6 +260,18 @@
     .heading10{
         font-size: 1rem;
     }
+
+    .main {
+        font-size: 1em;
+        font-weight: bolder;
+        line-height: 130%;
+    }
+
+    .butby_uq {
+        padding: 10px 31px;
+    }
+
+    
 }
 
 @media (max-width:400px){

@@ -41,7 +41,7 @@ a {
 }
 
 .butby {
-    padding: 10px 23px;
+    padding: 10px 15px;
     outline: none;
     border: none;
     background-color: #F2C94C;
@@ -252,4 +252,29 @@ a {
 #lastchal {
     width: 45%;
     word-spacing: 0.3px;
+}
+
+
+@media (max-width:500px){
+
+    .main {
+        font-size: 1.7em;
+        font-weight: bolder;
+        line-height: 130%;
+    }
+
+    .butby_uq {
+        padding: 10px 35px;
+        word-spacing: -0.89em;
+    }
+
+    .let11 {
+        font-size: 2.5rem;
+        line-height: 120%;
+        font-weight: 900;
+        padding-left: 75px;
+        margin-top: 30px;
+    }
+
+    
 }
