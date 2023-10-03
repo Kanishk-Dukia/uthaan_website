@@ -770,7 +770,7 @@ background: #64431C;
         color: #1D2130;
         line-height: 100%;
         font-weight: 900;
-        padding: 0  3em 0 0.8em;
+        padding: 0 3em 0 0.8em;
     }
 
     .data {
@@ -783,8 +783,12 @@ background: #64431C;
         margin-left: 0em;
     }
 
-   
-    
+    .home {
+        height: 60vh;
+    }
+
+
+
 }
 
 
@@ -841,22 +845,22 @@ background: #64431C;
 .headingcard {
     color: #FFF;
     font-family: Roboto;
-    font-size: 31px;
+    font-size: 29px;
     font-style: normal;
     font-weight: 700;
     line-height: 120%;
     z-index: 2;
-    padding: 1vw 4vw;
+    padding: 0vw 0vw;
 }
 
 .pa {
     color: #EFEFEF;
     font-family: Roboto;
-    font-size: 18px;
+    font-size: 17px;
     font-style: normal;
     font-weight: 400;
     line-height: 140%;
-    padding: 1vw 4vw;
+    padding: 1vw 0vw;
 }
 
 #arrowcon {
@@ -891,9 +895,8 @@ background: #64431C;
     outline: none;
     border: none;
     height: 35px;
-  
-    padding: 1vw 3vw;
-    margin-left: 2.5vw;
+    padding: 0vw 1vw;
+    margin-left: 5vw;
     width: 120px;
     font-weight: 700;
     border-radius: 5px;
@@ -1191,15 +1194,17 @@ background: #64431C;
     }
 
     .pa {
-      
-        font-size: 17px;
+
+        font-size: 16px;
         font-weight: 400;
         line-height: 140%;
-       align-self: center;
+        align-self: center;
+        padding-right:4em;
+        word-spacing: -0.2em;
     }
-    
 
-    
+
+
 
 }
 
