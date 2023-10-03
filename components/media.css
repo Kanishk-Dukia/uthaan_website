@@ -213,8 +213,13 @@
     #bt{
         display: none;
     }
-    .let11,.p11,#hey{
+    .let11,#hey{
         padding-left: 10px;
+    }
+
+    .p11{
+        padding-left: 9px;
+        padding-right: 11px;
     }
     
     .chal{
