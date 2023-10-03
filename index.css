@@ -1199,7 +1199,7 @@ background: #64431C;
         font-weight: 400;
         line-height: 140%;
         align-self: center;
-        padding-right:4em;
+        padding-right: 4em;
         word-spacing: -0.2em;
     }
 
@@ -1207,6 +1207,64 @@ background: #64431C;
 
 
 }
+
+@media only screen and (max-width:1500px) {
+    
+
+    .headingcard {
+        font-size: 27px;
+    }
+}
+@media only screen and (max-width:1475px) {
+
+
+    .headingcard {
+        font-size: 27px;
+    }
+
+    .pa {
+        font-size: 16px;
+    }
+}
+
+
+
+@media only screen and (min-width:1251px) and (max-width:1434px){
+    .headingcard {
+        font-size: 26px;
+    }
+}
+
+@media only screen and (min-width:1251px) and (min-width:1251px) and (max-width:1390px){
+    .headingcard{
+        font-size: 25px;
+    }
+
+    .pa {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (min-width:1251px) and (max-width:1340px){
+    .headingcard{
+        font-size: 24px;
+    }
+}
+@media only screen and (min-width:1251px) and (max-width:1300px){
+    .headingcard{
+        font-size: 23px;
+    }
+}
+
+@media only screen and (min-width:1251px) and (max-width: 1260px) {
+    .headingcard{
+        font-size: 22px;
+    }
+}
+
+
+
+
 
 #chal02,
 #chal92,
